@@ -2,6 +2,8 @@ package hashing;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Welcome to Structy: Hashing");
+        String input = "bookeeper";
+        char result = MostFrequentChar.mostFrequentChar(input);
+        System.out.println("Most frequent char: " + result);
     }
 }
