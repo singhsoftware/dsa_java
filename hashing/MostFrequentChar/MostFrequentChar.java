@@ -1,4 +1,4 @@
-package hashing;
+package hashing.MostFrequentChar;
 
 import java.util.HashMap;
 

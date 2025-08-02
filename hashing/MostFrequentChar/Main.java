@@ -1,4 +1,4 @@
-package hashing;
+package hashing.MostFrequentChar;
 
 public class Main {
     public static void main(String[] args) {
